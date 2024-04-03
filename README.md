@@ -15,5 +15,6 @@
 - `uvicorn src.main:app --reload` (обязательно находясь внутри папки backend)
 
 #### Frontend
+- `npm create vite@latest`
 - `npm install`
 - `npm run dev`
